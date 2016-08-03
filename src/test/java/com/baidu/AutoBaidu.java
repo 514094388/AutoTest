@@ -2,7 +2,6 @@ package com.baidu;
 
 import java.util.concurrent.TimeUnit;
 
-import javax.swing.plaf.synth.SynthSeparatorUI;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
